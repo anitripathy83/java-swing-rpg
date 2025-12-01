@@ -2,9 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-11+-blue.svg)](https://www.oracle.com/java/)
 [![GUI](https://img.shields.io/badge/GUI-Swing-brightgreen.svg)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![OOP](https://img.shields.io/badge/OOP-Advanced-orange.svg)]()
-[![Grade](https://img.shields.io/badge/Grade-A%2B%20(65%2F65)-success.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A comprehensive text-based RPG game built with Java, demonstrating professional Object-Oriented Programming, design patterns, and GUI development with Swing. Features a complete 15-room dungeon world with 11 unique monsters, progressive combat system, and inventory management.
 
@@ -42,8 +40,6 @@ A comprehensive text-based RPG game built with Java, demonstrating professional 
 | Potions | 11 |
 | Design Patterns | 5 |
 | OOP Concepts | 10 |
-| Grade Points | 65/65 |
-| Final Grade | A+ |
 
 ## 🗺️ Game World Overview
 
@@ -343,7 +339,6 @@ Built with focus on:
 
 **Version**: 2.0 | **Status**: Production Ready ✅  
 **Last Updated**: December 2025  
-**Expected Grade**: A+ (65/65 points)
 
 🎮 **Enjoy playing and learning!** 🚀⚔️🐉
 
